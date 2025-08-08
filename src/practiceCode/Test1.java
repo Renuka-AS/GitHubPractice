@@ -5,5 +5,6 @@ public static void main(String[] args) {
 	System.out.println("This is my first cloned repository ");
 	System.out.println("this is my first trail of cloning in another GitHub account");
 	System.out.println("added another line to my code");
+	System.out.println("hey print i am on way");
 }
 }
